@@ -1,4 +1,3 @@
-Here is a `README.md` file template for your movie recommendation system project:
 
 ---
 ## https://konsamovie.streamlit.app/
@@ -86,5 +85,3 @@ The trained movie recommendation model is saved using `pickle`. It can be loaded
 - Thanks to Streamlit for providing an easy way to create web apps.
 
 ---
-
-You can modify the `git clone` URL and any other specifics that apply to your project. Let me know if you need further customization!
