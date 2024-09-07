@@ -1,0 +1,41 @@
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pyd
+*.db
+*.sqlite
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+venv/
+.env/
+
+# Ignore Node.js dependencies and build artifacts
+node_modules/
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# Ignore build artifacts
+public/build/
+*.log
+
+# Ignore large files and directories
+similarity.pkl
+movies_list.pkl
+*.pkl
+
+
+# Ignore other temporary files
+.DS_Store
+*.swp
+*.swo
+*.tmp
+
+# Ignore Git Large File Storage (LFS) metadata
+.git/lfs/
